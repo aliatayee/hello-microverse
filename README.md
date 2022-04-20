@@ -1,6 +1,6 @@
 
-# setup and mobile version skeleton
-> Hello Microverse
+# Hello Microverse
+> First Milestone Project
 ## Built With
 HTML5
 ## Major languages
